@@ -1,4 +1,3 @@
-# SentinelAI-SOC-Implementation
 # 🛰️ SentinelAI SOC — Security Operations Centre Implementation
 
 **Project:** SentinelAI AI Customer Support Platform — Security Layer
